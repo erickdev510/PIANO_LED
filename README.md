@@ -27,3 +27,10 @@ Cada botão do circuito corresponde a uma nota musical. Quando um botão é pres
 ![imagem](https://github.com/erickdev510/PIANO_LED/blob/main/PIANO%20LED.png)
 
 O projeto funciona como um mini teclado musical eletrônico, permitindo interação do usuário através dos botões.
+
+
+
+
+## Conclusão
+
+O projeto “Piano LED” é uma forma prática e divertida de aprender programação e eletrônica utilizando Arduino. Além de estimular a criatividade, ele ajuda a desenvolver conhecimentos importantes sobre circuitos, lógica e interação entre hardware e software.
