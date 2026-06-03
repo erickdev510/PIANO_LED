@@ -24,6 +24,6 @@ Funcionamento
 Cada botão do circuito corresponde a uma nota musical. Quando um botão é pressionado, o Arduino identifica o comando, ativa o buzzer para reproduzir o som e pode acender um LED correspondente.
 
 
-![imagem]()
+![imagem](https://github.com/erickdev510/PIANO_LED/blob/main/PIANO%20LED.png)
 
 O projeto funciona como um mini teclado musical eletrônico, permitindo interação do usuário através dos botões.
